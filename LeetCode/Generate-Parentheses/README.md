@@ -1,16 +1,3 @@
 # Generate Parentheses
 
-Can you solve this real interview question? Generate Parentheses - Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses.
-
- 
-
-Example 1:
-
-Input: n = 3
-Output: ["((()))","(()())","(())()","()(())","()()()"]
-
-
-Example 2:
-
-Input: n = 1
-Output: ["()"]
+Level up your coding skills and quickly land a job. This is the best place to expand your knowledge and get prepared for your next interview.
